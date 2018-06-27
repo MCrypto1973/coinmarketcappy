@@ -16,7 +16,7 @@ VERSION = '%d.%d.%d' % (MAJOR, MINOR, MICRO)
 setup(name='coinmarketcappy',
       version=VERSION,
       description='Python API wrapper and scraper for coinmarketcappy data',
-      long_description=readme(),
+      long_description='',
       classifiers=[
           'Development Status :: 5 - Production/Stable',
           'Intended Audience :: Developers',
